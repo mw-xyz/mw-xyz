@@ -3,25 +3,26 @@
 </p>
 
 ---
-first year physics student
+first year physics & philosophy student
 
 ## 🚀 projects
 
 - 🎮 **mwnesweeper**  
-  A Minesweeper game created using Python and tkinter for A-level computer science coursework with a board solver
+  minesweeper (python & tkinter) for A-level cs nea with a board solver
 
 - 🪐 **Planet-hunting-local**  
-  group project using Kepler satellite data to display findings using `matplotlib`
+  group project using Kepler satellite data to display info about planets using `matplotlib`
 
 ---
 
 ## 🛠 skills (developing)
 
 ```text
-Languages     : Python, SQL, Markdown, LaTeX  
+languages     : Python, SQL, zsh(?)
+syntax        : Markdown, LaTeX  
 Libraries     : Numpy, matplotlib, Tableau  
-Quantum       : Q#, Qiskit  
-Utilities     : Git
+quantum       : Q#, Qiskit  
+other         : Git
 ```
 
 ## 📊 stats
